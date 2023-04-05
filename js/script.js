@@ -1,4 +1,4 @@
-const chatGPT_API_KEY = "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";
+const chatGPT_API_KEY = "";
 const SPOTIFY_API_KEY = "your_spotify_api_key";
 
 async function fetchChatGPTResponse(prompt) {
